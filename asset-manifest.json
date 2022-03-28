@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/craft-search/static/css/main.0412f007.css",
+    "main.js": "/craft-search/static/js/main.7a75f465.js",
+    "static/js/787.23e88b5f.chunk.js": "/craft-search/static/js/787.23e88b5f.chunk.js",
+    "index.html": "/craft-search/index.html",
+    "main.0412f007.css.map": "/craft-search/static/css/main.0412f007.css.map",
+    "main.7a75f465.js.map": "/craft-search/static/js/main.7a75f465.js.map",
+    "787.23e88b5f.chunk.js.map": "/craft-search/static/js/787.23e88b5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0412f007.css",
+    "static/js/main.7a75f465.js"
+  ]
+}
